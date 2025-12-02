@@ -1,0 +1,12 @@
+homelab_address: "192.168.116.0"
+homelab_broadcast: "192.168.116.255"
+homelab_cidr_prefix: "24"
+homelab_dns1_server: "192.168.116.156"
+homelab_dns2_server: "192.168.116.157"
+#homelab_dns3_server: "192.168.116.7"
+#homelab_dns_forwarder_server: "192.168.116.7"
+homelab_domain_name: "sophon.virtnet"
+homelab_gateway: "192.168.116.1"
+homelab_reverse_zone: "116.168.192"
+homelab_subnet_mask: "255.255.255.0"
+
