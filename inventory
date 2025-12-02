@@ -1,0 +1,17 @@
+[dns1]
+192.168.116.156
+
+[dns2]
+192.168.116.157
+
+#[satellite]
+#192.168.116.147
+
+[admin:children]
+dns1
+dns2
+
+[virtual:children]
+dns1
+dns2
+
