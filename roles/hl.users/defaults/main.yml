@@ -1,0 +1,7 @@
+---
+users:
+  - name: ansible
+    password: "defined in secure.yml as user_password"
+
+sudo_group_redhat: "wheel"
+sudo_group_debian: "sudo"
